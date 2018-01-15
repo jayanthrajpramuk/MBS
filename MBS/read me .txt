@@ -1,1 +1,3 @@
 git remote add origin https://github.com/jayanthrajpramuk/MBS.git
+
+initial commit from IDE
