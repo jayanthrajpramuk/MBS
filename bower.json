@@ -1,0 +1,17 @@
+{
+  "name": "mbs",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jayanth Chornur Srinivasa <chornur.srinivasa.jayanth@volvo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jayanthrajpramuk/MBS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
